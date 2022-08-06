@@ -2,6 +2,9 @@
 Resource Packs for Creepypasted: Death Sounds Mod
 https://www.curseforge.com/minecraft/mc-mods/death-sounds
 
+mod download mediafire:
+https://www.mediafire.com/file/g23oq3cbzrr44rs/Creepypasted_Death_Sounds_V1.0.jar/file
+
 # How to make custom death sounds
 1 - download the template custom death sound
 
