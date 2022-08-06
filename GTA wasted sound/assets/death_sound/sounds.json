@@ -1,0 +1,12 @@
+{
+  "death_sound": {
+    "category": "player",
+    "subtitle": "subtitles.death_sound",
+    "sounds": [
+      {
+        "name": "death_sound:death",
+        "stream": false
+      }
+    ]
+  }
+}
